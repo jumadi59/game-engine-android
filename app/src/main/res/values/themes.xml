@@ -1,0 +1,13 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.BlockPuzzle" parent="Theme.AppCompat.NoActionBar">
+    </style>
+
+    <style name="Theme.BlockPuzzle.Fullscreen" parent="Theme.BlockPuzzle">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+</resources>

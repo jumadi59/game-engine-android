@@ -1,0 +1,12 @@
+shape: round
+round: [3, 3, 3, 3]
+width: 40
+height: 40
+color: #464f58
+
+shape: round
+round: [3, 3, 3, 3]
+width: 40
+height: 40
+color: #464f58
+rotate: 45

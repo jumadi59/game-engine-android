@@ -1,0 +1,6 @@
+shape: round
+round: [45, 45, 45, 45]
+width: 45
+height: 120
+colors: [#28dfcd, #089a8d]
+shadow: 3 #3e3e3e90
